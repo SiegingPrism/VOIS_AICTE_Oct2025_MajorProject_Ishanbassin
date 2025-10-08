@@ -47,7 +47,7 @@ To ensure an optimal user experience and prevent subscriber churn, it is essenti
 ```
 ├── README.md
 ├── Dataset 
-│   ├── [NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv](https://github.com/Navneet2409/netflix-movies-and-tv-shows-clustering/files/10660309/NETFLIX.MOVIES.AND.TV.SHOWS.CLUSTERING.csv)
+│  
 ├── Problem Statement
 │
 ├── Understanding Data
