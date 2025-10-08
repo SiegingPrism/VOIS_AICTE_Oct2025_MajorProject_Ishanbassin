@@ -22,10 +22,7 @@ To ensure an optimal user experience and prevent subscriber churn, it is essenti
   clusters are dissimilar to one another.
   
   
-## Dataset
-  The dataset used in this project is sourced from Flixable, a third-party Netflix search engine. The data includes information on all movies and TV shows available 
-  on   the streaming platform as of 2019, with a total of 7787 records and 12 attributes. Each attribute provides specific information about the movie or TV show. 
-  For more information on the dataset, please visit the Kaggle website at https://www.kaggle.com/datasets/sambhajizambre/netflix-movies-and-tv-shows-clustering?select=netflix_titles.csv.
+
   
   
 ## Data Pipeline
